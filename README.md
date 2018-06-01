@@ -11,6 +11,7 @@ Os arquivos que aqui estão geralmente foram desafios passados nalguma etapa de 
 | Repositórios                                                    | Documentações                                                      | Licenças                                                | Situações                                                  |
 |-----------------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------|
 | [![Projeto Innovt][InnovtBadgesRepositorio]][InnovtRepositorio] | [![Documentação Innovt][InnovtBadgesDocumentos]][InnovtDocumentos] | [![GitHub license][InnovtBadgesLicenca]][InnovtLicenca] | [![GitHub issues][InnovtBadgesProblemas]][InnovtProblemas] |
+| [![Projeto AMCom][AMComBadgesRepositorio]][AMComRepositorio]    | [![Documentação AMCom][AMComBadgesDocumentos]][AMComDocumentos]    | [![GitHub license][AMComBadgesLicenca]][AMComLicenca] | [![GitHub issues][AMComBadgesProblemas]][AMComProblemas]   |
 
 
 # Área de interesses:
@@ -40,3 +41,13 @@ As área que possuo maior interesses para meu desenvolvimento profissional são:
 [InnovtBadgesDocumentos]:<https://img.shields.io/badge/Documentation-2%20docs-brightgreen.svg>
 [InnovtBadgesLicenca]: <https://img.shields.io/github/license/alexandredorea/Portfolio.svg?style=flat-square>
 [InnovtBadgesProblemas]: <https://img.shields.io/github/issues/alexandredorea/Portfolio.svg?style=flat-square>
+
+[AMComRepositorio]: <https://github.com/alexandredorea/AMCom>
+[AMComDocumentos]: <https://github.com/alexandredorea/AMCom/blob/master/README.md>
+[AMComLicenca]: <https://github.com/alexandredorea/AMCom>
+[AMComProblemas]: <https://github.com/alexandredorea/AMCom/issues>
+
+[AMComBadgesRepositorio]: <https://img.shields.io/badge/Projeto-AMcom%20%5Bconclu%C3%ADdo%5D-brightgreen.svg?style=flat-square>
+[AMComBadgesDocumentos]:<https://img.shields.io/badge/Documentation-5%20docs-brightgreen.svg>
+[AMComBadgesLicenca]: <https://img.shields.io/github/license/alexandredorea/AMCom.svg?style=flat-square>
+[AMComBadgesProblemas]: <https://img.shields.io/github/issues/alexandredorea/AMCom.svg?style=flat-square>
